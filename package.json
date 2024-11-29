@@ -1,0 +1,19 @@
+{
+  "name": "card-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "console-table-printer": "^2.11.2",
+    "moment": "^2.29.4",
+    "puppeteer": "^21.1.0"
+  }
+}
